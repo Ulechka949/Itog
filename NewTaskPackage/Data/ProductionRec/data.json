@@ -1,0 +1,562 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ffeeae1f-afc0-42dd-8008-00e9d63b2cd9"
+        },
+        {
+          "SchemaColumnUId": "acfe980c-5ecf-4a25-b152-7ef64388d83d",
+          "Value": "\/Date(1565557200000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "f1e1caf7-15b4-46e2-9cf2-ab8444e95a31",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "b18db52f-ec8f-4dd1-88a3-a34bc79e7d2f",
+          "Value": "277535ea-40b8-4fda-9127-1806ca1adcbb",
+          "DisplayValue": "Заказ 3"
+        },
+        {
+          "SchemaColumnUId": "cfc6833a-c2a1-4367-b0d8-da44683d8e67",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "116b0c2e-a1eb-438b-874b-24a91f0f9b18",
+          "Value": "65372ec4-50b5-4bc6-b6ff-7122762aec67",
+          "DisplayValue": "Запланирован"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f0eff314-24b2-4c99-81f9-131926603bb1"
+        },
+        {
+          "SchemaColumnUId": "acfe980c-5ecf-4a25-b152-7ef64388d83d",
+          "Value": "\/Date(1565816400000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "f1e1caf7-15b4-46e2-9cf2-ab8444e95a31",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "b18db52f-ec8f-4dd1-88a3-a34bc79e7d2f",
+          "Value": "86e22388-9018-4269-9c14-674f259eec68",
+          "DisplayValue": "Заказ 2"
+        },
+        {
+          "SchemaColumnUId": "cfc6833a-c2a1-4367-b0d8-da44683d8e67",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "116b0c2e-a1eb-438b-874b-24a91f0f9b18",
+          "Value": "65372ec4-50b5-4bc6-b6ff-7122762aec67",
+          "DisplayValue": "Запланирован"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a16aff59-635d-4268-bb89-13344ed07e91"
+        },
+        {
+          "SchemaColumnUId": "acfe980c-5ecf-4a25-b152-7ef64388d83d",
+          "Value": "\/Date(1578430800000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "f1e1caf7-15b4-46e2-9cf2-ab8444e95a31",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "b18db52f-ec8f-4dd1-88a3-a34bc79e7d2f",
+          "Value": "fcb7921c-73be-4ce7-a5b5-c1a23330a5ad",
+          "DisplayValue": "Заказ 1"
+        },
+        {
+          "SchemaColumnUId": "cfc6833a-c2a1-4367-b0d8-da44683d8e67",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "116b0c2e-a1eb-438b-874b-24a91f0f9b18",
+          "Value": "65372ec4-50b5-4bc6-b6ff-7122762aec67",
+          "DisplayValue": "Запланирован"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ff885562-d01d-4507-b678-168a0a08c930"
+        },
+        {
+          "SchemaColumnUId": "acfe980c-5ecf-4a25-b152-7ef64388d83d",
+          "Value": "\/Date(1565643600000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "f1e1caf7-15b4-46e2-9cf2-ab8444e95a31",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "b18db52f-ec8f-4dd1-88a3-a34bc79e7d2f",
+          "Value": "277535ea-40b8-4fda-9127-1806ca1adcbb",
+          "DisplayValue": "Заказ 3"
+        },
+        {
+          "SchemaColumnUId": "cfc6833a-c2a1-4367-b0d8-da44683d8e67",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "116b0c2e-a1eb-438b-874b-24a91f0f9b18",
+          "Value": "65372ec4-50b5-4bc6-b6ff-7122762aec67",
+          "DisplayValue": "Запланирован"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6ae16b6c-a55d-412e-9e91-19c4aeda6a54"
+        },
+        {
+          "SchemaColumnUId": "acfe980c-5ecf-4a25-b152-7ef64388d83d",
+          "Value": "\/Date(1567026000000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "f1e1caf7-15b4-46e2-9cf2-ab8444e95a31",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "b18db52f-ec8f-4dd1-88a3-a34bc79e7d2f",
+          "Value": "86e22388-9018-4269-9c14-674f259eec68",
+          "DisplayValue": "Заказ 2"
+        },
+        {
+          "SchemaColumnUId": "cfc6833a-c2a1-4367-b0d8-da44683d8e67",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "116b0c2e-a1eb-438b-874b-24a91f0f9b18",
+          "Value": "65372ec4-50b5-4bc6-b6ff-7122762aec67",
+          "DisplayValue": "Запланирован"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "624d817a-193c-456a-8911-1b3862f1c8b1"
+        },
+        {
+          "SchemaColumnUId": "acfe980c-5ecf-4a25-b152-7ef64388d83d",
+          "Value": "\/Date(1566421200000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "f1e1caf7-15b4-46e2-9cf2-ab8444e95a31",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "b18db52f-ec8f-4dd1-88a3-a34bc79e7d2f",
+          "Value": "86e22388-9018-4269-9c14-674f259eec68",
+          "DisplayValue": "Заказ 2"
+        },
+        {
+          "SchemaColumnUId": "cfc6833a-c2a1-4367-b0d8-da44683d8e67",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "116b0c2e-a1eb-438b-874b-24a91f0f9b18",
+          "Value": "65372ec4-50b5-4bc6-b6ff-7122762aec67",
+          "DisplayValue": "Запланирован"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "607a76b4-19b4-442b-8a8b-1c0422546a12"
+        },
+        {
+          "SchemaColumnUId": "acfe980c-5ecf-4a25-b152-7ef64388d83d",
+          "Value": "\/Date(1565211600000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "f1e1caf7-15b4-46e2-9cf2-ab8444e95a31",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "b18db52f-ec8f-4dd1-88a3-a34bc79e7d2f",
+          "Value": "277535ea-40b8-4fda-9127-1806ca1adcbb",
+          "DisplayValue": "Заказ 3"
+        },
+        {
+          "SchemaColumnUId": "cfc6833a-c2a1-4367-b0d8-da44683d8e67",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "116b0c2e-a1eb-438b-874b-24a91f0f9b18",
+          "Value": "65372ec4-50b5-4bc6-b6ff-7122762aec67",
+          "DisplayValue": "Запланирован"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "768bada7-e89d-424d-bc0b-1cf3177388b8"
+        },
+        {
+          "SchemaColumnUId": "acfe980c-5ecf-4a25-b152-7ef64388d83d",
+          "Value": "\/Date(1565470800000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "f1e1caf7-15b4-46e2-9cf2-ab8444e95a31",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "b18db52f-ec8f-4dd1-88a3-a34bc79e7d2f",
+          "Value": "277535ea-40b8-4fda-9127-1806ca1adcbb",
+          "DisplayValue": "Заказ 3"
+        },
+        {
+          "SchemaColumnUId": "cfc6833a-c2a1-4367-b0d8-da44683d8e67",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "116b0c2e-a1eb-438b-874b-24a91f0f9b18",
+          "Value": "65372ec4-50b5-4bc6-b6ff-7122762aec67",
+          "DisplayValue": "Запланирован"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "969ca4fe-533b-4a50-94a0-2a3f72f4ed28"
+        },
+        {
+          "SchemaColumnUId": "acfe980c-5ecf-4a25-b152-7ef64388d83d",
+          "Value": "\/Date(1568235600000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "f1e1caf7-15b4-46e2-9cf2-ab8444e95a31",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "b18db52f-ec8f-4dd1-88a3-a34bc79e7d2f",
+          "Value": "86e22388-9018-4269-9c14-674f259eec68",
+          "DisplayValue": "Заказ 2"
+        },
+        {
+          "SchemaColumnUId": "cfc6833a-c2a1-4367-b0d8-da44683d8e67",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "116b0c2e-a1eb-438b-874b-24a91f0f9b18",
+          "Value": "65372ec4-50b5-4bc6-b6ff-7122762aec67",
+          "DisplayValue": "Запланирован"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "507ab068-216f-4b66-aab4-626ba95e0498"
+        },
+        {
+          "SchemaColumnUId": "acfe980c-5ecf-4a25-b152-7ef64388d83d",
+          "Value": "\/Date(1567630800000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "f1e1caf7-15b4-46e2-9cf2-ab8444e95a31",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "b18db52f-ec8f-4dd1-88a3-a34bc79e7d2f",
+          "Value": "86e22388-9018-4269-9c14-674f259eec68",
+          "DisplayValue": "Заказ 2"
+        },
+        {
+          "SchemaColumnUId": "cfc6833a-c2a1-4367-b0d8-da44683d8e67",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "116b0c2e-a1eb-438b-874b-24a91f0f9b18",
+          "Value": "65372ec4-50b5-4bc6-b6ff-7122762aec67",
+          "DisplayValue": "Запланирован"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "edd89d38-acd1-4465-af8a-74e0f1288a61"
+        },
+        {
+          "SchemaColumnUId": "acfe980c-5ecf-4a25-b152-7ef64388d83d",
+          "Value": "\/Date(1573160400000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "f1e1caf7-15b4-46e2-9cf2-ab8444e95a31",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "b18db52f-ec8f-4dd1-88a3-a34bc79e7d2f",
+          "Value": "fcb7921c-73be-4ce7-a5b5-c1a23330a5ad",
+          "DisplayValue": "Заказ 1"
+        },
+        {
+          "SchemaColumnUId": "cfc6833a-c2a1-4367-b0d8-da44683d8e67",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "116b0c2e-a1eb-438b-874b-24a91f0f9b18",
+          "Value": "65372ec4-50b5-4bc6-b6ff-7122762aec67",
+          "DisplayValue": "Запланирован"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "102ea0a6-bc3b-402e-9893-7f07e1af0050"
+        },
+        {
+          "SchemaColumnUId": "acfe980c-5ecf-4a25-b152-7ef64388d83d",
+          "Value": "\/Date(1570482000000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "f1e1caf7-15b4-46e2-9cf2-ab8444e95a31",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "b18db52f-ec8f-4dd1-88a3-a34bc79e7d2f",
+          "Value": "fcb7921c-73be-4ce7-a5b5-c1a23330a5ad",
+          "DisplayValue": "Заказ 1"
+        },
+        {
+          "SchemaColumnUId": "cfc6833a-c2a1-4367-b0d8-da44683d8e67",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "116b0c2e-a1eb-438b-874b-24a91f0f9b18",
+          "Value": "65372ec4-50b5-4bc6-b6ff-7122762aec67",
+          "DisplayValue": "Запланирован"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "1d06187c-5dc8-48cd-833b-9bed13036cfe"
+        },
+        {
+          "SchemaColumnUId": "acfe980c-5ecf-4a25-b152-7ef64388d83d",
+          "Value": "\/Date(1565298000000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "f1e1caf7-15b4-46e2-9cf2-ab8444e95a31",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "b18db52f-ec8f-4dd1-88a3-a34bc79e7d2f",
+          "Value": "277535ea-40b8-4fda-9127-1806ca1adcbb",
+          "DisplayValue": "Заказ 3"
+        },
+        {
+          "SchemaColumnUId": "cfc6833a-c2a1-4367-b0d8-da44683d8e67",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "116b0c2e-a1eb-438b-874b-24a91f0f9b18",
+          "Value": "65372ec4-50b5-4bc6-b6ff-7122762aec67",
+          "DisplayValue": "Запланирован"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b9bd8d4f-79bf-4476-9a0c-9c396ef0e8ce"
+        },
+        {
+          "SchemaColumnUId": "acfe980c-5ecf-4a25-b152-7ef64388d83d",
+          "Value": "\/Date(1565384400000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "f1e1caf7-15b4-46e2-9cf2-ab8444e95a31",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "b18db52f-ec8f-4dd1-88a3-a34bc79e7d2f",
+          "Value": "277535ea-40b8-4fda-9127-1806ca1adcbb",
+          "DisplayValue": "Заказ 3"
+        },
+        {
+          "SchemaColumnUId": "cfc6833a-c2a1-4367-b0d8-da44683d8e67",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "116b0c2e-a1eb-438b-874b-24a91f0f9b18",
+          "Value": "65372ec4-50b5-4bc6-b6ff-7122762aec67",
+          "DisplayValue": "Запланирован"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f54366e9-9d4d-4aa1-b6ce-a8a761d2a089"
+        },
+        {
+          "SchemaColumnUId": "acfe980c-5ecf-4a25-b152-7ef64388d83d",
+          "Value": "\/Date(1565211600000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "f1e1caf7-15b4-46e2-9cf2-ab8444e95a31",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "b18db52f-ec8f-4dd1-88a3-a34bc79e7d2f",
+          "Value": "fcb7921c-73be-4ce7-a5b5-c1a23330a5ad",
+          "DisplayValue": "Заказ 1"
+        },
+        {
+          "SchemaColumnUId": "cfc6833a-c2a1-4367-b0d8-da44683d8e67",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "116b0c2e-a1eb-438b-874b-24a91f0f9b18",
+          "Value": "65372ec4-50b5-4bc6-b6ff-7122762aec67",
+          "DisplayValue": "Запланирован"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3ee80946-450b-4c87-a666-c2c68d3f2eea"
+        },
+        {
+          "SchemaColumnUId": "acfe980c-5ecf-4a25-b152-7ef64388d83d",
+          "Value": "\/Date(1575752400000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "f1e1caf7-15b4-46e2-9cf2-ab8444e95a31",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "b18db52f-ec8f-4dd1-88a3-a34bc79e7d2f",
+          "Value": "fcb7921c-73be-4ce7-a5b5-c1a23330a5ad",
+          "DisplayValue": "Заказ 1"
+        },
+        {
+          "SchemaColumnUId": "cfc6833a-c2a1-4367-b0d8-da44683d8e67",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "116b0c2e-a1eb-438b-874b-24a91f0f9b18",
+          "Value": "65372ec4-50b5-4bc6-b6ff-7122762aec67",
+          "DisplayValue": "Запланирован"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "c454dd7e-61d0-4058-889b-c52e1c5f87e4"
+        },
+        {
+          "SchemaColumnUId": "acfe980c-5ecf-4a25-b152-7ef64388d83d",
+          "Value": "\/Date(1567890000000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "f1e1caf7-15b4-46e2-9cf2-ab8444e95a31",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "b18db52f-ec8f-4dd1-88a3-a34bc79e7d2f",
+          "Value": "fcb7921c-73be-4ce7-a5b5-c1a23330a5ad",
+          "DisplayValue": "Заказ 1"
+        },
+        {
+          "SchemaColumnUId": "cfc6833a-c2a1-4367-b0d8-da44683d8e67",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "116b0c2e-a1eb-438b-874b-24a91f0f9b18",
+          "Value": "65372ec4-50b5-4bc6-b6ff-7122762aec67",
+          "DisplayValue": "Запланирован"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "ac8ac3d1-b6a5-43db-9ad1-fff82cb20ff6"
+        },
+        {
+          "SchemaColumnUId": "acfe980c-5ecf-4a25-b152-7ef64388d83d",
+          "Value": "\/Date(1565211600000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "f1e1caf7-15b4-46e2-9cf2-ab8444e95a31",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "b18db52f-ec8f-4dd1-88a3-a34bc79e7d2f",
+          "Value": "86e22388-9018-4269-9c14-674f259eec68",
+          "DisplayValue": "Заказ 2"
+        },
+        {
+          "SchemaColumnUId": "cfc6833a-c2a1-4367-b0d8-da44683d8e67",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "116b0c2e-a1eb-438b-874b-24a91f0f9b18",
+          "Value": "65372ec4-50b5-4bc6-b6ff-7122762aec67",
+          "DisplayValue": "Запланирован"
+        }
+      ]
+    }
+  ]
+}

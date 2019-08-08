@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "74a2eb5a-0b39-4ace-8072-115ec8c62524",
+    "Name": "UsrAvtomaticAddBP",
+    "ModifiedOnUtc": "\/Date(1565262619000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Автоматическое добавление выпусков",
+    "DependsOn": []
+  }
+}

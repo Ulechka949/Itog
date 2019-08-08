@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "023b08a3-ee74-482d-a683-21a1720f2100",
+    "Name": "UsrPublicSectionFile",
+    "ModifiedOnUtc": "\/Date(1565160223000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Периодические издания",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Периодические издания&quot;" />
+			<Item Name="LocalizableStrings.AvtomaticAddCaption.Value" Value="Добавление выпусков" />
+			<Item Name="LocalizableStrings.Tab8ed47b5bTabLabelTabCaption.Value" Value="Выпуски" />
+		</Items>
+	</Group>
+</Resources>

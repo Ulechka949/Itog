@@ -1,0 +1,130 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "277535ea-40b8-4fda-9127-1806ca1adcbb"
+        },
+        {
+          "SchemaColumnUId": "464a4b16-5536-44aa-b377-bf7872197faf",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "65d6af06-1d79-47bf-84ab-d40132de0330",
+          "Value": 333
+        },
+        {
+          "SchemaColumnUId": "5b512088-d3c5-420c-b7ac-50f84fac2cd8",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "bce2d594-69c6-4d59-830e-5e8c2802d925",
+          "Value": "\/Date(1565643600000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "f7ed10de-5e29-4131-aa96-ad2c3596c240",
+          "Value": "Заказ 3"
+        },
+        {
+          "SchemaColumnUId": "f0a38ad4-26b1-440b-b709-3d90a767a0d2",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "8dda1944-8e25-4e7e-a0ef-45806a721c96",
+          "Value": "ee845c2b-b76c-498f-8079-169fedb30943",
+          "DisplayValue": "Ежедневно"
+        },
+        {
+          "SchemaColumnUId": "11e77d3e-cce8-4832-bfe4-d4325af97ed2",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "86e22388-9018-4269-9c14-674f259eec68"
+        },
+        {
+          "SchemaColumnUId": "464a4b16-5536-44aa-b377-bf7872197faf",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "65d6af06-1d79-47bf-84ab-d40132de0330",
+          "Value": 222
+        },
+        {
+          "SchemaColumnUId": "5b512088-d3c5-420c-b7ac-50f84fac2cd8",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "bce2d594-69c6-4d59-830e-5e8c2802d925",
+          "Value": "\/Date(1567026000000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "f7ed10de-5e29-4131-aa96-ad2c3596c240",
+          "Value": "Заказ 2"
+        },
+        {
+          "SchemaColumnUId": "f0a38ad4-26b1-440b-b709-3d90a767a0d2",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "8dda1944-8e25-4e7e-a0ef-45806a721c96",
+          "Value": "ed03db5d-babc-488c-afb0-8046c3d546ad",
+          "DisplayValue": "Еженедельно"
+        },
+        {
+          "SchemaColumnUId": "11e77d3e-cce8-4832-bfe4-d4325af97ed2",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "fcb7921c-73be-4ce7-a5b5-c1a23330a5ad"
+        },
+        {
+          "SchemaColumnUId": "464a4b16-5536-44aa-b377-bf7872197faf",
+          "Value": true
+        },
+        {
+          "SchemaColumnUId": "65d6af06-1d79-47bf-84ab-d40132de0330",
+          "Value": 111
+        },
+        {
+          "SchemaColumnUId": "5b512088-d3c5-420c-b7ac-50f84fac2cd8",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "bce2d594-69c6-4d59-830e-5e8c2802d925",
+          "Value": "\/Date(1578430800000+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "f7ed10de-5e29-4131-aa96-ad2c3596c240",
+          "Value": "Заказ 1"
+        },
+        {
+          "SchemaColumnUId": "f0a38ad4-26b1-440b-b709-3d90a767a0d2",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "8dda1944-8e25-4e7e-a0ef-45806a721c96",
+          "Value": "cd44c501-f92d-475c-a1a5-d3189ed1b96b",
+          "DisplayValue": "Ежемесячно"
+        },
+        {
+          "SchemaColumnUId": "11e77d3e-cce8-4832-bfe4-d4325af97ed2",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        }
+      ]
+    }
+  ]
+}
